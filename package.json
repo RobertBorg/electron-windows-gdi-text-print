@@ -1,0 +1,16 @@
+{
+  "name": "electron-print",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "silent": "electron . silent",
+    "dialog": "electron . dialog",
+    "both": "electron . both"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^9.0.0-beta.5"
+  }
+}
